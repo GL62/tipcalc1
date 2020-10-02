@@ -34,7 +34,6 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
 The difference in Xcode versions made it so that I had to figure out how to get to certain menus but it was pretty easy for the most part. The real issues came when I tried to push my code to github via xcode. It didn't work, so I had to manually upload the files from my computer.
 
 ## License
